@@ -43,7 +43,7 @@ spec:
       type: Socket
   - name: ebv-test-volume
     awsElasticBlockStore:
-      volumeID: vol-08cbb0c62b2fc0867
+      volumeID: vol-01cdc61a2dd7b3977
       fsType: ext4
         
 """
